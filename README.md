@@ -1,1 +1,1 @@
-# decentralied-file-storage
+# decentralized-file-storage
