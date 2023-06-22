@@ -1,0 +1,28 @@
+.box{
+	
+	width:160px;
+	height:100%;
+	display:flex;
+  flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	border-radius:14px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.box img{
+	width:35%;
+	height:70px
+}
+.box:hover{
+	
+	 background-color:rgba(239, 239, 237, 0.871);
+     transition: 200ms;
+}
+.box p{
+    margin-bottom: 1rem;
+	margin-top:10px;
+	color: black;
+	font-size:16px;
+
+}
