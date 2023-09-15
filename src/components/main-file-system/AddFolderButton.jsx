@@ -52,7 +52,7 @@ export default function AddFolderButton({currentFolder}){
     
     return(
         <div >
-        <Button onClick={openAddFolderBox} variant="primary" size='sm'>
+        <Button onClick={openAddFolderBox} className='px-2 py-2' variant="primary" size='md'>
             Add Folder
         </Button>
 
