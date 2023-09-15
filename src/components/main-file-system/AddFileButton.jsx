@@ -101,7 +101,7 @@ const uploadFileToIPFS = async(file) => {
 };
     return(
 
-       <label className="btn btn-primary btn-sm m-0 mr-2 ">
+       <label className="btn btn-primary  px-2 py-2 mr-2 ">
         Upload File
         <input
         type="file"
